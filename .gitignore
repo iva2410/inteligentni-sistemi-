@@ -1,0 +1,7 @@
+fakead_model/
+*.safetensors
+*.joblib
+*.csv
+.env
+__pycache__/
+.ipynb_checkpoints/
